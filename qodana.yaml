@@ -8,3 +8,14 @@ profile:
   name: qodana.recommended
 include:
   - name: CheckDependencyLicenses
+  - name: AutoCloseableResource
+  - name: StringConcatenationInLoops
+  - name: ConstantConditions
+  - name: NullPointerException
+  - name: UnusedDeclaration
+  - name: DeprecatedIsStillUsed
+  - name: JvmLinesOfCodeInspection
+  - name: MagicNumber
+  - name: FeatureEnvy
+  - name: UtilityClass
+  - name: PublicField
